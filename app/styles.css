@@ -1,0 +1,36 @@
+header{
+    background-color: purple;
+    padding: 5 px;
+    text-align: center;
+    height: 20%;
+}
+header h1 {
+    font-size: 70px;
+    font-weight: 600;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+body {
+    margin: 0;
+    background-color: black;
+  }
+  .infinite-scroll-component {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+.infinite-scroll-component img {
+  width: auto; 
+  max-width: 50%; 
+  height: 50vh; 
+  object-fit: cover; 
+  border-radius: 8px; 
+  margin: 10px; 
+}
+
+  
+
+  
+  
