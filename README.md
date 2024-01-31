@@ -1,1 +1,1 @@
-Link - https://memes-gallery-jqc5mvtx1-ritika-kumaris-projects-ae2479b4.vercel.app/
+Link - https://memes-gallery-ashen.vercel.app/
